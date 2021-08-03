@@ -1,0 +1,8 @@
+D:\VsProject\SimpleKcp\bin\Debug\netstandard2.0\SimpleKCP.deps.json
+D:\VsProject\SimpleKcp\bin\Debug\netstandard2.0\SimpleKCP.dll
+D:\VsProject\SimpleKcp\bin\Debug\netstandard2.0\SimpleKCP.pdb
+D:\VsProject\SimpleKcp\obj\Debug\netstandard2.0\SimpleKCP.AssemblyInfoInputs.cache
+D:\VsProject\SimpleKcp\obj\Debug\netstandard2.0\SimpleKCP.AssemblyInfo.cs
+D:\VsProject\SimpleKcp\obj\Debug\netstandard2.0\SimpleKCP.csproj.CoreCompileInputs.cache
+D:\VsProject\SimpleKcp\obj\Debug\netstandard2.0\SimpleKCP.dll
+D:\VsProject\SimpleKcp\obj\Debug\netstandard2.0\SimpleKCP.pdb
